@@ -1,0 +1,82 @@
+body {
+    color: #333;
+  }
+  
+  h1 {
+    color: black;
+    font-size: 60px;
+  }
+  
+  p {
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+  }
+  
+  .quote-figure {
+    font-size: 70px;
+    padding-right: 15px;
+  }
+  
+  .quotes {
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 5px;
+    height: auto;
+    padding: 50px;
+    color: black;
+  }
+  
+  .quote {
+    font-size: 30px;
+  }
+  
+  .author {
+    float: right;
+    font-size: 20px;
+    font-style: italic
+  }
+  
+  
+   a {
+      font-weight:500;
+      text-decoration:none;
+      color: white;
+    }
+  
+  .buttons {
+    padding: 20px;
+    padding-top: 35px;
+  }
+  
+  .btn {
+    color: white;
+  }
+  
+  .button {
+    float: right;
+    padding: px;
+  }
+  
+  #new-quote {
+    float: left;
+  }
+  
+  .test {
+    font-size: 20px;
+    }
+  
+  .footer {
+    text-align: center;
+    margin: 15px;
+    display: block;
+    color: white;
+    
+  }
+  
+  
+  
